@@ -29,13 +29,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mainbase.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="Shader.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="Window.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="segundo_main.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

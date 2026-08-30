@@ -1,0 +1,22 @@
+# Para excuir:
+# temporales de Visual Studio
+.vs/
+*.user
+*.aps
+*.idb
+*.pdb
+*.obj
+*.pch
+*.vsix
+*.ipch
+*.db
+*.opendb
+
+# compilaciones de depuracion
+Debug/
+x64/
+x86/
+
+# permitir releases y los ejecutables
+!Release/
+!Release/*.exe

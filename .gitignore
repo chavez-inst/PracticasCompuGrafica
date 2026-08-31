@@ -13,9 +13,9 @@
 *.opendb
 
 # compilaciones de depuracion
-Debug/
-x64/
-x86/
+#Debug/
+#x64/
+#x86/
 
 # permitir releases y los ejecutables
 !Release/

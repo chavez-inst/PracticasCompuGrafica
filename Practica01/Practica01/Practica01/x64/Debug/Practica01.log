@@ -1,0 +1,20 @@
+﻿  segundo_main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'segundo_main.cpp')
+      C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\include\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\segundo_main.cpp(95,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Shader.cpp
+C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\Shader.cpp(121,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Window.cpp
+C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+  Generating Code...
+C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\Practica01\Window.cpp(74,1): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica01.vcxproj -> C:\Users\Alejandro\Documents\CompuGrafica\PracticasCompuGrafica\Practica01\Practica01\x64\Debug\Practica01.exe

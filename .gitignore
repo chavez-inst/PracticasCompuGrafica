@@ -11,6 +11,7 @@
 *.ipch
 *.db
 *.opendb
+*.tlog
 
 # compilaciones de depuracion
 #Debug/

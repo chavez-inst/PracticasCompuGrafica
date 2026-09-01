@@ -1,23 +1,26 @@
-# Para excuir:
-# temporales de Visual Studio
+# ==========================================
+# Carpetas y temporales de Visual Studio
+# ==========================================
 .vs/
+Debug/
+Release/
+x64/
+x86/
 *.user
 *.aps
 *.idb
-*.pdb
 *.obj
 *.pch
-*.vsix
 *.ipch
 *.db
 *.opendb
 *.tlog
+*.lastbuildstate
+*.suo
 
-# compilaciones de depuracion
-#Debug/
-#x64/
-#x86/
-
-# permitir releases y los ejecutables
-!Release/
-!Release/*.exe
+# ==========================================
+# Entregas
+# ==========================================
+# Permitir entrar a cualquier carpeta llamada "Entregables" y todo su contenido
+!**/Entregables/
+!**/Entregables/**
